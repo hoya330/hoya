@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51252c864fec0664a8136caf77aa2319
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - idleAni: {fileID: 7400030, guid: df1f47a0a2effe74488d5da197295a19, type: 3}
+  - walkAni: {fileID: 7400032, guid: df1f47a0a2effe74488d5da197295a19, type: 3}
+  - runAni: {fileID: 7400032, guid: df1f47a0a2effe74488d5da197295a19, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
